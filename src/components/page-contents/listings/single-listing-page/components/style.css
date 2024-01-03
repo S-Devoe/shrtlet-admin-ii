@@ -1,0 +1,15 @@
+.listing-mini-header {
+  @apply font-bold text-[1.125rem] leading-[1.5rem] text-black;
+}
+
+.listing-text-light {
+  @apply text-black text-[1rem] leading-[1.25rem] font-normal;
+}
+
+.listing-text {
+  @apply text-black text-[1rem] leading-[1.25rem] font-medium;
+}
+
+.listing-text-lighter {
+  @apply text-gray-five text-[1rem] leading-[1.25rem] font-normal;
+}

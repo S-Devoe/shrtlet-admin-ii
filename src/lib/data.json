@@ -1,0 +1,30 @@
+{
+    "userData": {
+        "firstname": "Benjamin",
+        "surname": "Oyemonlan",
+        "email": "madison@emailsample.co",
+        "phone": "+2347625562653",
+        "image": "/profile/avatar.png"
+      },
+    "listing": {
+        "status": "approved",
+        "image": "/listing/atlantic.png",
+        "name": "Eko Atlantic Stays",
+        "place": "Lagos, Nigeria",
+        "guests": 8,
+        "bedrooms": 4,
+        "price": 200,
+        "caution": 50
+    },
+    "booking": {
+        "status": "approved",
+        "image": "/listing/atlantic.png",
+        "name": "Eko Atlantic Stays",
+        "place": "Lagos, Nigeria",
+        "checkIn": "2023-11-03",
+        "checkOut": "2023-11-10",
+        "guests": 3,
+        "price": 1200,
+        "caution": 50
+    }
+}
